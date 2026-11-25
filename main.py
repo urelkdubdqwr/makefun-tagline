@@ -1,3 +1,5 @@
+"""Write the make.fun competition tagline to entry.txt under the output dir."""
+
 import os
 
 TEXT = "Your agent writes the code. make.fun writes the checks.\n"
